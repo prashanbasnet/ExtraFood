@@ -16,14 +16,14 @@ p{
   text-align: justify;
   display: grid;
   font-size: 18px;
-  grid-template-columns: auto auto;
-  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 5px;
   grid-template-rows: auto auto;
-  grid-row-gap: 15px;
-  margin:0px 0px 0px 40px;
+  grid-row-gap: 20px;
+  margin:0px 0px 0px 0px;
 }
 .submit{
-padding:10px;
+padding-top:30px;
 }
 .navbar {
   overflow: hidden;
